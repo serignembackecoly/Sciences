@@ -1,0 +1,8 @@
+h1{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tomato;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
